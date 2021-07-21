@@ -2,6 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+This is github isulen-rizp file
 Use the left arrow to go back!
-
